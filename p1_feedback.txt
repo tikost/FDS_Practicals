@@ -1,0 +1,58 @@
+# Repository FDS21-M62 Practical 1
+
+You got 90.0/100 points and 5.0/5.0 bonus points. You need to fix your mistakes in Tasks 1-12 and resubmit your solutions to GitHub before the deadline for Practical 2 (05/12/2021). If you do not submit an improved solution, then you will fail Practical 1. Please find the feedback below. 
+
+## Task 1: 6.0/6
+
+Task 1 is OK
+
+## Task 2: 6.0/6
+
+Task 2 is OK
+
+## Task 3: 8.0/8
+
+Task 3 is OK
+
+## Task 4: 4.0/8
+
+4.0 points deducted -- Task 4: The test data must be standardized using the means and standard deviations of the training data.
+
+## Task 5: 8.0/8
+
+Task 5 is OK
+
+## Task 6: 8.0/8
+
+Task 6 is OK
+
+## Task 7: 8.0/12
+
+4.0 points deducted -- Task 7: The test data must be standardized using the means and standard deviations of the training data.
+
+## Task 8: 8.0/8
+
+Task 8 is OK
+
+## Task 9: 8.0/8
+
+Task 9 is OK
+
+## Task 10: 8.0/10
+
+No points deducted -- Task 10: The test data should be standardized after basis expansion.
+
+2.0 points deducted -- Task 10: The implementation is correct but the wrong data is returned.
+
+## Task 11: 10.0/10
+
+Task 11 is OK
+
+## Task 12: 8.0/8
+
+Task 12 is OK
+
+## Task 13 (Bonus): 5.0/5.0
+
+Task 13 is OK
+
