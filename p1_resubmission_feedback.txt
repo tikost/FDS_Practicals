@@ -1,0 +1,52 @@
+# Repository FDS21-M62 Practical 1
+
+You have passed the Practical 1. You got 100.0/100 points. Please find the feedback below. 
+
+## Task 1: 6.0/6
+
+Task 1 is OK
+
+## Task 2: 6.0/6
+
+Task 2 is OK
+
+## Task 3: 8.0/8
+
+Task 3 is OK
+
+## Task 4: 8.0/8
+
+Task 4 is OK
+
+## Task 5: 8.0/8
+
+Task 5 is OK
+
+## Task 6: 8.0/8
+
+Task 6 is OK
+
+## Task 7: 12.0/12
+
+Task 7 is OK
+
+## Task 8: 8.0/8
+
+Task 8 is OK
+
+## Task 9: 8.0/8
+
+Task 9 is OK
+
+## Task 10: 10.0/10
+
+Task 10 is OK
+
+## Task 11: 10.0/10
+
+Task 11 is OK
+
+## Task 12: 8.0/8
+
+Task 12 is OK
+
