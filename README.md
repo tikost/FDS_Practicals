@@ -1,7 +1,7 @@
 # Foundations of Data Science
 21HS MINF4566 Foundations of Data Science (L+E) course
 
-We had to do three practical projects during the course on the following topics:
+Three practical projects during the course on the following topics:
 - Practical Task 1: Implementation of Linear Regression (Ridge, Lasso)
   - implement the linear model from scratch using the numpy package
   - use learning curves plot to understand whether the linear model is overfitting or underfitting
